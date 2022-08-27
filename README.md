@@ -1,4 +1,4 @@
-#Counter with useReducer
+# Counter with useReducer
 
 Question (easy)
 
